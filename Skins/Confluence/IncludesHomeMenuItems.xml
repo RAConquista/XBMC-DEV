@@ -148,8 +148,8 @@
 		</control>
 		<control type="button" id="90112">
 			<include>ButtonHomeSubCommonValues</include>
-			<label>$INFO[Container(90110).ListItemNoWrap(0).Label]</label>
-			<onclick>ActivateWindow(Music,$INFO[Container(90110).ListItemNoWrap(0).FileNameAndPath],return)</onclick>
+			<label>Radio Germania</label>
+			<onclick>PlayMedia(http://85.214.91.110:1488)</onclick>
 		</control>
 		<control type="button" id="90113">
 			<include>ButtonHomeSubCommonValues</include>
