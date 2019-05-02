@@ -211,8 +211,8 @@
 		</control>
 		<control type="button" id="90124">
 			<include>ButtonHomeSubCommonValues</include>
-			<label>13200</label>
-			<onclick>ActivateWindow(Profiles)</onclick>
+			<label>Reload Skin</label>
+			<onclick>XBMC.ReloadSkin()</onclick>
 		</control>
 		<control type="button" id="90125">
 			<include>ButtonHomeSubCommonValues</include>
